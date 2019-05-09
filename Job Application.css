@@ -1,0 +1,64 @@
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+#Header h2{
+    font-family: "Passion One";
+    font-weight: bold;
+    color: purple;
+    background-color: lightgoldenrodyellow;
+    font-size: 70px;
+    border: 80px;
+}
+
+#Content1 {
+    color: rgb(95, 95, 93);
+    column-count: 5;
+    font-weight: bold;
+    padding:15px;
+    width: 900px;
+    border: solid 1.5px rgb(95, 95, 93);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#Content2 {
+    color: rgb(95, 95, 93);
+    column-count: 5;
+    font-weight: bold;
+    padding:15px;
+    width: 900px;
+    border: solid 1.5px rgb(95, 95, 93);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#Content3 {
+    color: rgb(95, 95, 93);
+    font-weight: bold;
+    column-count: 1;
+    padding:15px;
+    width: 900px;
+    border: solid 1.5px rgb(95, 95, 93);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#Content4 {
+    color: rgb(95, 95, 93);
+    font-weight: bold;
+    column-count: 1;
+    padding:15px;
+    width: 900px;
+    border: solid 1.5px rgb(95, 95, 93);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
